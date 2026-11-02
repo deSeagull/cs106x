@@ -54,3 +54,11 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+__MACOSX/
+.DS_Store
+._*
+.qtcreator/
+RenameMe.exe
+*.lnk
+/assign-1-game-of-life (1)/
